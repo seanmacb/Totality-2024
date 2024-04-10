@@ -7,7 +7,7 @@ Data taken in Burlington VT
 
 - Longitude: +44d 29m 46s
 
-- Altitude: 66m
+- Altitude: 57m
 
 
 Critical files
